@@ -1,0 +1,20 @@
+/* Title Editor */
+.title-wrapper {
+  margin-top: 5%;
+  padding: 3% 7%;
+  height: 70px;
+}
+
+/* Body Editor */
+.content-wrapper {
+  margin-top: 8%;
+  padding: 2% 7%;
+}
+.content {
+  min-height: 200px;
+  padding: 0.8rem;
+}
+
+.button {
+  margin: 0% 7%;
+}

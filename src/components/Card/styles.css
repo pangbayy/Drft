@@ -1,0 +1,36 @@
+.journal-col {
+  padding: 3% 2%;
+}
+.card {
+  background-color: #eae7dc;
+  border-radius: 0%;
+  max-height: 250px;
+  line-height: 1.8rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card :hover {
+  background-color: #e85a4f;
+  transition: 200ms;
+}
+
+.card-title {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2rem;
+}
+.button-delete {
+  margin-left: 10px;
+}
+
+.card-text {
+  max-height: 160px;
+  overflow: hidden;
+}
+
+.card-link,
+.card-link:hover {
+  color: black;
+  text-decoration: none;
+}

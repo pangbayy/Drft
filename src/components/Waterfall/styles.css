@@ -1,0 +1,13 @@
+/* Waterfall */
+
+.waterfall-container {
+  text-align: center;
+  height: fit-content;
+  overflow: scroll;
+}
+
+.waterfall-header {
+  text-align: left;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.3rem;
+}

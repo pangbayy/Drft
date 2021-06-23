@@ -1,0 +1,22 @@
+/* Daily Prompts */
+
+.date {
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem;
+}
+.daily-prompt {
+  font-family: "Oswald", sans-serif light;
+  font-size: 3rem;
+  color: #e85a4f;
+  text-decoration: none;
+}
+.daily-prompt:hover {
+  transition: 300ms;
+  font-size: 3.1rem;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: #e85a4f;
+}
+#prompt .container-fluid {
+  padding: 3% 10% 10%;
+}
