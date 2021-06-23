@@ -2,7 +2,6 @@ import React from "react";
 import "./styles.css";
 import Card from "../Card/Card";
 import JournalService from "../Services/JournalService";
-/* import profilepic from "./nobara.jpg"; */
 
 class User extends React.Component {
   constructor(props) {
